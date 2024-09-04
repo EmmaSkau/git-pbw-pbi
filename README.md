@@ -1,3 +1,3 @@
 # git-pbw-pbi
 
-Hej med jer jeg hedder Emma og jeg gider ikke mere..
+Hej med jer! Vi skal lære jer om Git i dag!
